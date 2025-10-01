@@ -1,0 +1,110 @@
+export const products = [
+  {
+    id: 1,
+    name: "T-shirt",
+    price: 499,
+    image: "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=150&q=80",
+  },
+  {
+    id: 2,
+    name: "Sneakers",
+    price: 1999,
+    image: "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=150&q=80",
+  },
+  {
+    id: 3,
+    name: "Watch",
+    price: 999,
+    image: "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=150&q=80",
+  },
+  {
+    id: 4,
+    name: "T-shirt",
+    price: 499,
+    image: "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=150&q=80",
+  },
+  {
+    id: 5,
+    name: "Sneakers",
+    price: 1999,
+    image: "https://images.unsplash.com/photo-1606813902497-0437d9957da6?auto=format&fit=crop&w=150&q=80",
+  },
+  {
+    id: 6,
+    name: "Watch",
+    price: 999,
+    image: "https://images.unsplash.com/photo-1519741491051-4ac4341cbf2d?auto=format&fit=crop&w=150&q=80",
+  },
+  {
+    id: 7,
+    name: "T-shirt",
+    price: 499,
+    image: "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=150&q=80",
+  },
+  {
+    id: 8,
+    name: "Sneakers",
+    price: 1999,
+    image: "https://images.unsplash.com/photo-1606813902497-0437d9957da6?auto=format&fit=crop&w=150&q=80",
+  },
+  {
+    id: 9,
+    name: "Watch",
+    price: 999,
+    image: "https://images.unsplash.com/photo-1519741491051-4ac4341cbf2d?auto=format&fit=crop&w=150&q=80",
+  },
+  {
+    id: 10,
+    name: "T-shirt",
+    price: 499,
+    image: "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=150&q=80",
+  },
+  {
+    id: 11,
+    name: "Sneakers",
+    price: 1999,
+    image: "https://images.unsplash.com/photo-1606813902497-0437d9957da6?auto=format&fit=crop&w=150&q=80",
+  },
+  {
+    id: 12,
+    name: "Watch",
+    price: 999,
+    image: "https://images.unsplash.com/photo-1519741491051-4ac4341cbf2d?auto=format&fit=crop&w=150&q=80",
+  },
+  {
+    id: 13,
+    name: "T-shirt",
+    price: 499,
+    image: "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=150&q=80",
+  },
+  {
+    id: 14,
+    name: "Sneakers",
+    price: 1999,
+    image: "https://images.unsplash.com/photo-1606813902497-0437d9957da6?auto=format&fit=crop&w=150&q=80",
+  },
+  {
+    id: 15,
+    name: "Watch",
+    price: 999,
+    image: "https://images.unsplash.com/photo-1519741491051-4ac4341cbf2d?auto=format&fit=crop&w=150&q=80",
+  },
+  {
+    id: 16,
+    name: "T-shirt",
+    price: 499,
+    image: "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=150&q=80",
+  },
+  {
+    id: 17,
+    name: "Sneakers",
+    price: 1999,
+    image: "https://images.unsplash.com/photo-1606813902497-0437d9957da6?auto=format&fit=crop&w=150&q=80",
+  },
+  {
+    id: 18,
+    name: "Watch",
+    price: 999,
+    image: "https://images.unsplash.com/photo-1519741491051-4ac4341cbf2d?auto=format&fit=crop&w=150&q=80",
+  }
+];

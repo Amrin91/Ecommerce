@@ -1,0 +1,1557 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\013c42c6-f8a4-4a3d-bdc6-ebc7066e1df9.jpg",
+      "PackagePath": "staticwebassets\\images\\013c42c6-f8a4-4a3d-bdc6-ebc7066e1df9.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\10d5f716-0724-4052-ba8a-6524b40171ca.jpg",
+      "PackagePath": "staticwebassets\\images\\10d5f716-0724-4052-ba8a-6524b40171ca.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\133fcc26-14ee-4e1e-a0c7-83960cfb861e.jpg",
+      "PackagePath": "staticwebassets\\images\\133fcc26-14ee-4e1e-a0c7-83960cfb861e.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\1645f212-573f-4d65-8a73-c466311c7dbb.png",
+      "PackagePath": "staticwebassets\\images\\1645f212-573f-4d65-8a73-c466311c7dbb.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\2ce73257-0350-4cb3-bee6-80ebc26b40c7.jpg",
+      "PackagePath": "staticwebassets\\images\\2ce73257-0350-4cb3-bee6-80ebc26b40c7.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\2e795ba3-00b6-40fe-ae2d-fcf58a97b8b0.PNG",
+      "PackagePath": "staticwebassets\\images\\2e795ba3-00b6-40fe-ae2d-fcf58a97b8b0.PNG"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\3beb0c7f-6346-4c7f-9d56-b42780a2cb78.jpg",
+      "PackagePath": "staticwebassets\\images\\3beb0c7f-6346-4c7f-9d56-b42780a2cb78.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\4252be82-8ff6-4eda-8aaf-be9239719f2f.PNG",
+      "PackagePath": "staticwebassets\\images\\4252be82-8ff6-4eda-8aaf-be9239719f2f.PNG"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\43c95ada-252a-41e1-8ce7-e99f4de3c15c.png",
+      "PackagePath": "staticwebassets\\images\\43c95ada-252a-41e1-8ce7-e99f4de3c15c.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\4b4ee52e-0224-4017-8acf-dcd7bd672284.jpg",
+      "PackagePath": "staticwebassets\\images\\4b4ee52e-0224-4017-8acf-dcd7bd672284.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\4ea0c2ea-9831-4a9a-80c6-54b210f0a165.jpg",
+      "PackagePath": "staticwebassets\\images\\4ea0c2ea-9831-4a9a-80c6-54b210f0a165.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\5977f0a2-c6c3-45c0-a234-593c61de5732.PNG",
+      "PackagePath": "staticwebassets\\images\\5977f0a2-c6c3-45c0-a234-593c61de5732.PNG"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\688a7377-973a-4257-b4bb-4af183f63026.jpg",
+      "PackagePath": "staticwebassets\\images\\688a7377-973a-4257-b4bb-4af183f63026.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\73cd9150-f615-416e-a5cc-02cb07c2b97f.png",
+      "PackagePath": "staticwebassets\\images\\73cd9150-f615-416e-a5cc-02cb07c2b97f.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\78336ff3-efe8-4a27-834b-3fa10a145889.PNG",
+      "PackagePath": "staticwebassets\\images\\78336ff3-efe8-4a27-834b-3fa10a145889.PNG"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\7a5e5b90-c3d9-44fb-a65e-910eed8fb35a.jpg",
+      "PackagePath": "staticwebassets\\images\\7a5e5b90-c3d9-44fb-a65e-910eed8fb35a.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\7cf4f08d-e8bf-45d3-8d67-e0e3423d8e9f.PNG",
+      "PackagePath": "staticwebassets\\images\\7cf4f08d-e8bf-45d3-8d67-e0e3423d8e9f.PNG"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\7e525d4b-d39b-48f0-b7d0-088a21b11386.PNG",
+      "PackagePath": "staticwebassets\\images\\7e525d4b-d39b-48f0-b7d0-088a21b11386.PNG"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\81707a2c-6c37-4165-be58-eaf245ddce28.png",
+      "PackagePath": "staticwebassets\\images\\81707a2c-6c37-4165-be58-eaf245ddce28.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\902ad536-6f37-4038-b497-57443300ca18.jpg",
+      "PackagePath": "staticwebassets\\images\\902ad536-6f37-4038-b497-57443300ca18.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\91c9a2f5-c5ad-4504-be39-540f8ecc487d.png",
+      "PackagePath": "staticwebassets\\images\\91c9a2f5-c5ad-4504-be39-540f8ecc487d.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\DM_DLS_FLR_311506_Floor_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\DM_DLS_FLR_311506_Floor_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPBL-11018_Bedside_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPBL-11018_Bedside_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPBL-11019_Bedside_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPBL-11019_Bedside_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPBL-11020_Bedside_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPBL-11020_Bedside_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPBL-11021_Bedside_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPBL-11021_Bedside_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPBL-11022_Bedside_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPBL-11022_Bedside_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPBL-11023_Bedside_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPBL-11023_Bedside_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPBL-11024_Bedside_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPBL-11024_Bedside_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPBL-11025_Bedside_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPBL-11025_Bedside_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPBL-11026_Bedside_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPBL-11026_Bedside_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPBL-11027_Bedside_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPBL-11027_Bedside_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPES-35009-SIGN_LED_Wi-Fi__Small_.png",
+      "PackagePath": "staticwebassets\\images\\EPES-35009-SIGN_LED_Wi-Fi__Small_.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31018_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31018_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31019_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31019_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31020_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31020_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31021_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31021_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31022_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31022_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31023_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31023_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31024_Floor_Lamp_Shade.png",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31024_Floor_Lamp_Shade.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31026_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31026_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31027_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31027_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31028_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31028_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31029_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31029_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31030_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31030_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31031_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31031_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31033_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31033_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31034_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31034_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31035_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31035_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31036_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31036_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31037_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31037_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31038_Floor_Lamp_Shade.png",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31038_Floor_Lamp_Shade.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31039_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31039_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31040_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31040_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31041_Floor_Lamp_Shade.png",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31041_Floor_Lamp_Shade.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31042_Floor_Lamp_Shade.png",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31042_Floor_Lamp_Shade.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31043_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31043_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31044_Floor_Lamp_Shade.png",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31044_Floor_Lamp_Shade.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31045_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31045_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31046_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31046_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31047_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31047_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31048_Floor_Lamp_Shade.png",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31048_Floor_Lamp_Shade.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31049_Floor_Lamp_Shade_GD_Body.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31049_Floor_Lamp_Shade_GD_Body.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31050_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31050_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31051_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31051_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31052_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31052_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31053_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31053_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31054_Floor_Lamp_Shade.png",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31054_Floor_Lamp_Shade.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31055_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31055_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31056-Floor-Lamp-Shade-768x768.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31056-Floor-Lamp-Shade-768x768.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31056_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31056_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31057_Floor_Lamp_Shade.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31057_Floor_Lamp_Shade.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31058_Floor_Lamp_Shade_SL_Body.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31058_Floor_Lamp_Shade_SL_Body.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31059_Floor_Lamp_Shade_GD_Body.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31059_Floor_Lamp_Shade_GD_Body.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31060-Floor-Lamp-Shade-GD-Body-768x768 (1).jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31060-Floor-Lamp-Shade-GD-Body-768x768 (1).jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPFLS-31060_Floor_Lamp_Shade_GD_Body.jpg",
+      "PackagePath": "staticwebassets\\images\\EPFLS-31060_Floor_Lamp_Shade_GD_Body.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPML-10172-LED_Basin_Light_BK_WW.png",
+      "PackagePath": "staticwebassets\\images\\EPML-10172-LED_Basin_Light_BK_WW.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPRL-12016_Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPRL-12016_Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPRL-12017_Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPRL-12017_Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPRL-12018_Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPRL-12018_Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPRL-12019_Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPRL-12019_Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPRL-12020_Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPRL-12020_Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPRL-12021_Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPRL-12021_Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPRL-12022_Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPRL-12022_Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPRL-12023-Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPRL-12023-Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPRL-12024_Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPRL-12024_Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPRL-12025_Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPRL-12025_Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPRL-12026-Table_Lamp_Golden_Body_WH_WW.jpg",
+      "PackagePath": "staticwebassets\\images\\EPRL-12026-Table_Lamp_Golden_Body_WH_WW.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPRL-12034-Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPRL-12034-Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPRL-12035-Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPRL-12035-Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPRL-12036-Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPRL-12036-Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPRL-12037-Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPRL-12037-Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPRL-12038-Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPRL-12038-Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPRL-12039-Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPRL-12039-Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPRL-12040-Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPRL-12040-Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPRL-12041-Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPRL-12041-Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPRL-12042-Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPRL-12042-Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPRL-12043-Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPRL-12043-Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPRL-12044-Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPRL-12044-Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPRL-12045-Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPRL-12045-Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPRL-12046-Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPRL-12046-Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPRL-12047-Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPRL-12047-Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPRL-12048-Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPRL-12048-Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPRL-12049-Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPRL-12049-Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPRL-6116-Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\EPRL-6116-Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPSL9004_E27_SN_RD_MAX-15W.png",
+      "PackagePath": "staticwebassets\\images\\EPSL9004_E27_SN_RD_MAX-15W.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\EPTBL-12058_LED_Table_Lamp_WH_Body_Multi_Colour.jpg",
+      "PackagePath": "staticwebassets\\images\\EPTBL-12058_LED_Table_Lamp_WH_Body_Multi_Colour.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\Energy__1386_LED_Spot_30W_WH__Track_Light__.jpg",
+      "PackagePath": "staticwebassets\\images\\Energy__1386_LED_Spot_30W_WH__Track_Light__.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\FLR-_4157_Exclusive_Floor_Lamp.png",
+      "PackagePath": "staticwebassets\\images\\FLR-_4157_Exclusive_Floor_Lamp.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\FLR_3084_Exclusive_Floor_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\FLR_3084_Exclusive_Floor_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\FLR_3413_Exclusive_Floor_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\FLR_3413_Exclusive_Floor_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\FLR_4157_Floor_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\FLR_4157_Floor_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\FLR_4867_LED_Floor_Lamp.png",
+      "PackagePath": "staticwebassets\\images\\FLR_4867_LED_Floor_Lamp.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\FLR_5049_Exclusive_Floor_Lamp.png",
+      "PackagePath": "staticwebassets\\images\\FLR_5049_Exclusive_Floor_Lamp.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\FLR_5191_Floor_Lamp.png",
+      "PackagePath": "staticwebassets\\images\\FLR_5191_Floor_Lamp.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\FLR_5640_Floor_Lamp.png",
+      "PackagePath": "staticwebassets\\images\\FLR_5640_Floor_Lamp.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\FLR_5641_Exclusive_Floor_Lamp.png",
+      "PackagePath": "staticwebassets\\images\\FLR_5641_Exclusive_Floor_Lamp.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\FLR_5788_LED_Floor_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\FLR_5788_LED_Floor_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\FLR_5853_Exclusive_Floor_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\FLR_5853_Exclusive_Floor_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\FLR_5888_Floor_Lamp_EPFLS-31003.jpg",
+      "PackagePath": "staticwebassets\\images\\FLR_5888_Floor_Lamp_EPFLS-31003.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\FLR_5889_Floor_Lamp.png",
+      "PackagePath": "staticwebassets\\images\\FLR_5889_Floor_Lamp.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\FLR_6103.jpg",
+      "PackagePath": "staticwebassets\\images\\FLR_6103.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\FLR_6105.png",
+      "PackagePath": "staticwebassets\\images\\FLR_6105.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\FLR_6107.png",
+      "PackagePath": "staticwebassets\\images\\FLR_6107.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\FLR_6109.png",
+      "PackagePath": "staticwebassets\\images\\FLR_6109.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\FLR_6113.jpg",
+      "PackagePath": "staticwebassets\\images\\FLR_6113.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\FLR_6119.png",
+      "PackagePath": "staticwebassets\\images\\FLR_6119.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\FLR_6306_Decorative_Feather_Floor_Lamp.png",
+      "PackagePath": "staticwebassets\\images\\FLR_6306_Decorative_Feather_Floor_Lamp.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\FLR_6306_Floor_Lamp_Purple.jpg",
+      "PackagePath": "staticwebassets\\images\\FLR_6306_Floor_Lamp_Purple.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\FLR_6307_Floor_Lamp_Green.jpg",
+      "PackagePath": "staticwebassets\\images\\FLR_6307_Floor_Lamp_Green.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\FLR_6307_Floor_Lamp_Pink.jpg",
+      "PackagePath": "staticwebassets\\images\\FLR_6307_Floor_Lamp_Pink.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\FLR_6310_floor_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\FLR_6310_floor_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\FLR_6314_Floor_Lamp.png",
+      "PackagePath": "staticwebassets\\images\\FLR_6314_Floor_Lamp.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\FLR_6316_Floor_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\FLR_6316_Floor_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\FLR_6322_Floor_Lamp.png",
+      "PackagePath": "staticwebassets\\images\\FLR_6322_Floor_Lamp.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\FLR_6373_Crystal_Floor_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\FLR_6373_Crystal_Floor_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\HL_6005_Hanging_Light_1_Point.jpg",
+      "PackagePath": "staticwebassets\\images\\HL_6005_Hanging_Light_1_Point.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\HL_6014.png",
+      "PackagePath": "staticwebassets\\images\\HL_6014.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\HL_6022.png",
+      "PackagePath": "staticwebassets\\images\\HL_6022.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\HL_6027_LED_Hanging_Light_10P.jpg",
+      "PackagePath": "staticwebassets\\images\\HL_6027_LED_Hanging_Light_10P.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\HL_6029_LED_Hanging_Light_12P.png",
+      "PackagePath": "staticwebassets\\images\\HL_6029_LED_Hanging_Light_12P.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\HL_6033.png",
+      "PackagePath": "staticwebassets\\images\\HL_6033.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\HL_6073.png",
+      "PackagePath": "staticwebassets\\images\\HL_6073.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\HL_6078.png",
+      "PackagePath": "staticwebassets\\images\\HL_6078.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\HL_6080.png",
+      "PackagePath": "staticwebassets\\images\\HL_6080.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\HL_6115.png",
+      "PackagePath": "staticwebassets\\images\\HL_6115.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\JHR_5870.jpg",
+      "PackagePath": "staticwebassets\\images\\JHR_5870.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\JHR_6058_Antic_Jhar.png",
+      "PackagePath": "staticwebassets\\images\\JHR_6058_Antic_Jhar.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\JHR_6061.png",
+      "PackagePath": "staticwebassets\\images\\JHR_6061.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\JHR_6067_Antic_Jhar.png",
+      "PackagePath": "staticwebassets\\images\\JHR_6067_Antic_Jhar.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\JHR_6075_Antic_Jhar.jpg",
+      "PackagePath": "staticwebassets\\images\\JHR_6075_Antic_Jhar.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\LED-1259-Outdoor-Wall-Washer-Focus-Light-48W-3000K-768x768.jpg",
+      "PackagePath": "staticwebassets\\images\\LED-1259-Outdoor-Wall-Washer-Focus-Light-48W-3000K-768x768.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\LED_1259_Outdoor_Wall_Washer_Focus_Light_48W_3000K.jpg",
+      "PackagePath": "staticwebassets\\images\\LED_1259_Outdoor_Wall_Washer_Focus_Light_48W_3000K.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\LED_467_EPSTL-13009_3W_IP65-P46.png",
+      "PackagePath": "staticwebassets\\images\\LED_467_EPSTL-13009_3W_IP65-P46.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\LED_947_Foot_Light_1W_WR_13002_3W_IP65-P45.png",
+      "PackagePath": "staticwebassets\\images\\LED_947_Foot_Light_1W_WR_13002_3W_IP65-P45.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S1107_SN_Saucer.png",
+      "PackagePath": "staticwebassets\\images\\S1107_SN_Saucer.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\SIGN_LED_NO_SMOKING__Small__35002.png",
+      "PackagePath": "staticwebassets\\images\\SIGN_LED_NO_SMOKING__Small__35002.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\SIGN_LED_Rest_Room_Man_s__Big__35005.png",
+      "PackagePath": "staticwebassets\\images\\SIGN_LED_Rest_Room_Man_s__Big__35005.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\SIGN_LED_Welcome__Small_.png",
+      "PackagePath": "staticwebassets\\images\\SIGN_LED_Welcome__Small_.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_10049_A_Saucer_Light.jpg",
+      "PackagePath": "staticwebassets\\images\\S_10049_A_Saucer_Light.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_10049_B_Saucer_Light.jpg",
+      "PackagePath": "staticwebassets\\images\\S_10049_B_Saucer_Light.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_10049_C_Saucer_Light.jpg",
+      "PackagePath": "staticwebassets\\images\\S_10049_C_Saucer_Light.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_2021_SN_Saucer_Light_SQ.jpg",
+      "PackagePath": "staticwebassets\\images\\S_2021_SN_Saucer_Light_SQ.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_2022_SN_Saucer_Light_RD.jpg",
+      "PackagePath": "staticwebassets\\images\\S_2022_SN_Saucer_Light_RD.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_2486_Saucer_Light_SQ_SN.jpg",
+      "PackagePath": "staticwebassets\\images\\S_2486_Saucer_Light_SQ_SN.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_2691_Saucer_Light_SS.png",
+      "PackagePath": "staticwebassets\\images\\S_2691_Saucer_Light_SS.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_2886_Sensor_Saucer.png",
+      "PackagePath": "staticwebassets\\images\\S_2886_Sensor_Saucer.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_2891_Fiber_Saucer_21W_GR_PK_PP_RED.jpg",
+      "PackagePath": "staticwebassets\\images\\S_2891_Fiber_Saucer_21W_GR_PK_PP_RED.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_2893_A_Saucer__21w_016_.jpg",
+      "PackagePath": "staticwebassets\\images\\S_2893_A_Saucer__21w_016_.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_2893_B_Saucer_Light.png",
+      "PackagePath": "staticwebassets\\images\\S_2893_B_Saucer_Light.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_2893_C_Saucer_Light.png",
+      "PackagePath": "staticwebassets\\images\\S_2893_C_Saucer_Light.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_2893_D_Saucer__21w_183_.png",
+      "PackagePath": "staticwebassets\\images\\S_2893_D_Saucer__21w_183_.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_2893_E_Saucer_Light.png",
+      "PackagePath": "staticwebassets\\images\\S_2893_E_Saucer_Light.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_2893_F_Saucer_Light.png",
+      "PackagePath": "staticwebassets\\images\\S_2893_F_Saucer_Light.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_2893_Saucer_Light.jpg",
+      "PackagePath": "staticwebassets\\images\\S_2893_Saucer_Light.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_2894_Saucer_Light.jpg",
+      "PackagePath": "staticwebassets\\images\\S_2894_Saucer_Light.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_2976_A_Saucer_Light.png",
+      "PackagePath": "staticwebassets\\images\\S_2976_A_Saucer_Light.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_2976_B_Saucer___22W-6321_.png",
+      "PackagePath": "staticwebassets\\images\\S_2976_B_Saucer___22W-6321_.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_2976_C_Saucer___22W-183_.png",
+      "PackagePath": "staticwebassets\\images\\S_2976_C_Saucer___22W-183_.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_2976_D_Saucer___22W-009_.png",
+      "PackagePath": "staticwebassets\\images\\S_2976_D_Saucer___22W-009_.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_2976_E_Saucer_Light.jpg",
+      "PackagePath": "staticwebassets\\images\\S_2976_E_Saucer_Light.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_2976_Saucer_Light.png",
+      "PackagePath": "staticwebassets\\images\\S_2976_Saucer_Light.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_2986_SN_Saucer_Light_EPSL-9004.png",
+      "PackagePath": "staticwebassets\\images\\S_2986_SN_Saucer_Light_EPSL-9004.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_3277_Saucer_Light_SS.jpg",
+      "PackagePath": "staticwebassets\\images\\S_3277_Saucer_Light_SS.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_3280_Saucer_Light.png",
+      "PackagePath": "staticwebassets\\images\\S_3280_Saucer_Light.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_3281_Saucer_Light.png",
+      "PackagePath": "staticwebassets\\images\\S_3281_Saucer_Light.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_3283_Saucer_Light.jpg",
+      "PackagePath": "staticwebassets\\images\\S_3283_Saucer_Light.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_3284_Saucer_Light.png",
+      "PackagePath": "staticwebassets\\images\\S_3284_Saucer_Light.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_3294_Saucer_Light_Alu.jpg",
+      "PackagePath": "staticwebassets\\images\\S_3294_Saucer_Light_Alu.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_3341_Saucer_Light_SN.jpg",
+      "PackagePath": "staticwebassets\\images\\S_3341_Saucer_Light_SN.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_3563_Star_Saucer_Light.jpg",
+      "PackagePath": "staticwebassets\\images\\S_3563_Star_Saucer_Light.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_3927_SN_Glass_Saucer_Light.png",
+      "PackagePath": "staticwebassets\\images\\S_3927_SN_Glass_Saucer_Light.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_5046_LED_Saucer_Light.png",
+      "PackagePath": "staticwebassets\\images\\S_5046_LED_Saucer_Light.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_5047_LED_Sauser_Light.jpg",
+      "PackagePath": "staticwebassets\\images\\S_5047_LED_Sauser_Light.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_5049_LED_Saucer_Light.jpg",
+      "PackagePath": "staticwebassets\\images\\S_5049_LED_Saucer_Light.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\S_5390_Antic_Saucer_Light.jpg",
+      "PackagePath": "staticwebassets\\images\\S_5390_Antic_Saucer_Light.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\TBL-6131_LED_Table_Lamp_WH.jpg",
+      "PackagePath": "staticwebassets\\images\\TBL-6131_LED_Table_Lamp_WH.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\TBL-6133_LED_Table_Lamp_Tama.jpg",
+      "PackagePath": "staticwebassets\\images\\TBL-6133_LED_Table_Lamp_Tama.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\TBL-6134__LED_Table_Lamp_WH.jpeg",
+      "PackagePath": "staticwebassets\\images\\TBL-6134__LED_Table_Lamp_WH.jpeg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\TBL-6148_LED_Table_Lamp_BK.png",
+      "PackagePath": "staticwebassets\\images\\TBL-6148_LED_Table_Lamp_BK.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\TBL-6148_LED_Table_Lamp_WH.png",
+      "PackagePath": "staticwebassets\\images\\TBL-6148_LED_Table_Lamp_WH.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\TBL-6149_LED_Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\TBL-6149_LED_Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\TBL-6150_LED_Table_Lamp.png",
+      "PackagePath": "staticwebassets\\images\\TBL-6150_LED_Table_Lamp.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\TBL-6152_LED_Table_Lamp_Silver.png",
+      "PackagePath": "staticwebassets\\images\\TBL-6152_LED_Table_Lamp_Silver.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\TBL-6154_LED_Table_Lamp_Green.png",
+      "PackagePath": "staticwebassets\\images\\TBL-6154_LED_Table_Lamp_Green.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\TBL_5995_LED_Table_Lamp_BL_WH.jpg",
+      "PackagePath": "staticwebassets\\images\\TBL_5995_LED_Table_Lamp_BL_WH.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\TBL_5995_LED_Table_Lamp_pink_WH.jpg",
+      "PackagePath": "staticwebassets\\images\\TBL_5995_LED_Table_Lamp_pink_WH.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\TBL_5996_LED_Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\TBL_5996_LED_Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\TBL_5997_WH.jpg",
+      "PackagePath": "staticwebassets\\images\\TBL_5997_WH.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\TBL_6102.png",
+      "PackagePath": "staticwebassets\\images\\TBL_6102.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\TBL_6104.png",
+      "PackagePath": "staticwebassets\\images\\TBL_6104.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\TBL_6106.png",
+      "PackagePath": "staticwebassets\\images\\TBL_6106.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\TBL_6108.png",
+      "PackagePath": "staticwebassets\\images\\TBL_6108.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\TBL_6112.png",
+      "PackagePath": "staticwebassets\\images\\TBL_6112.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\TBL_6308_Table_Lamp.png",
+      "PackagePath": "staticwebassets\\images\\TBL_6308_Table_Lamp.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\TBL_6311_Table_Lamp.png",
+      "PackagePath": "staticwebassets\\images\\TBL_6311_Table_Lamp.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\TBL_6315_Table_Lamp_EPBL-11010.png",
+      "PackagePath": "staticwebassets\\images\\TBL_6315_Table_Lamp_EPBL-11010.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\TBL_6317_Antic_Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\TBL_6317_Antic_Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\TBL_6318_Table_Lamp.png",
+      "PackagePath": "staticwebassets\\images\\TBL_6318_Table_Lamp.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\TBL_6319_Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\TBL_6319_Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\TBL_6320_Table_Lamp.png",
+      "PackagePath": "staticwebassets\\images\\TBL_6320_Table_Lamp.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\TBL_6321_Table_Lamp.jpg",
+      "PackagePath": "staticwebassets\\images\\TBL_6321_Table_Lamp.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\WLS_4139_Security_Light_EPSTL-13011_2W_IP65__P47_.png",
+      "PackagePath": "staticwebassets\\images\\WLS_4139_Security_Light_EPSTL-13011_2W_IP65__P47_.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\WLS_6089.png",
+      "PackagePath": "staticwebassets\\images\\WLS_6089.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\b1417dcc-0864-4219-9be5-1733a059042f.jpg",
+      "PackagePath": "staticwebassets\\images\\b1417dcc-0864-4219-9be5-1733a059042f.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\b2d2ccd4-98d9-4195-b318-296fae7d72d6.jpg",
+      "PackagePath": "staticwebassets\\images\\b2d2ccd4-98d9-4195-b318-296fae7d72d6.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\b371a5e1-337a-41f8-bcb5-ecbb7fc0a6ba.PNG",
+      "PackagePath": "staticwebassets\\images\\b371a5e1-337a-41f8-bcb5-ecbb7fc0a6ba.PNG"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\bbca33d0-7a38-4c0a-975d-8ffecd1f9ae9.png",
+      "PackagePath": "staticwebassets\\images\\bbca33d0-7a38-4c0a-975d-8ffecd1f9ae9.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\e4c85bc8-0ce9-4709-98cb-08aa61e5ec00.jpg",
+      "PackagePath": "staticwebassets\\images\\e4c85bc8-0ce9-4709-98cb-08aa61e5ec00.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\ea577ecf-0246-47e3-9735-79a47f8c731c.jpg",
+      "PackagePath": "staticwebassets\\images\\ea577ecf-0246-47e3-9735-79a47f8c731c.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\ecccd677-e43d-4448-81b0-61d71e002a2f.jpg",
+      "PackagePath": "staticwebassets\\images\\ecccd677-e43d-4448-81b0-61d71e002a2f.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\ee9c89ca-5874-4f53-aeae-58412548e992.jpg",
+      "PackagePath": "staticwebassets\\images\\ee9c89ca-5874-4f53-aeae-58412548e992.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\f1adb563-92ce-40d1-801b-c5f392e67f7f.PNG",
+      "PackagePath": "staticwebassets\\images\\f1adb563-92ce-40d1-801b-c5f392e67f7f.PNG"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\01ec74e4-9ea4-4b4e-b3ca-5f53175a382c.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\01ec74e4-9ea4-4b4e-b3ca-5f53175a382c.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\0516b88a-a6eb-460f-8b71-f54932c6ebd9.png",
+      "PackagePath": "staticwebassets\\images\\products\\0516b88a-a6eb-460f-8b71-f54932c6ebd9.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\052ac737-fcd6-4d02-916d-cbfbd25df30c.png",
+      "PackagePath": "staticwebassets\\images\\products\\052ac737-fcd6-4d02-916d-cbfbd25df30c.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\06e45fcd-4e97-49ca-bf80-920a45772ca7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\06e45fcd-4e97-49ca-bf80-920a45772ca7.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\09685453-c3a3-4706-8074-1806f8c6c6a1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\09685453-c3a3-4706-8074-1806f8c6c6a1.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\0be799da-b0ec-4603-a16e-06352ee6fcde.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\0be799da-b0ec-4603-a16e-06352ee6fcde.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\0ebfd8d9-9524-4694-bc19-8e5eebe56a44.png",
+      "PackagePath": "staticwebassets\\images\\products\\0ebfd8d9-9524-4694-bc19-8e5eebe56a44.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\0f8bc255-2d68-4847-89b2-47284a9bf48c.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\0f8bc255-2d68-4847-89b2-47284a9bf48c.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\10f42c4c-1e6b-413b-baf2-4b4beff92ca7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\10f42c4c-1e6b-413b-baf2-4b4beff92ca7.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\15a0818f-c744-4d10-abd8-262cdbca1fa6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\15a0818f-c744-4d10-abd8-262cdbca1fa6.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\1722c1ce-f4c5-448f-a38d-1a8493e9d78c.png",
+      "PackagePath": "staticwebassets\\images\\products\\1722c1ce-f4c5-448f-a38d-1a8493e9d78c.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\184b58d7-125b-404f-a33a-310e323daf42.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\184b58d7-125b-404f-a33a-310e323daf42.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\18d7ef58-8dff-4c8b-99c2-8cd4e3caf45a_HG.png",
+      "PackagePath": "staticwebassets\\images\\products\\18d7ef58-8dff-4c8b-99c2-8cd4e3caf45a_HG.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\19b72ea9-5c88-44b5-a8ba-0fc0bb1c82f0.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\19b72ea9-5c88-44b5-a8ba-0fc0bb1c82f0.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\1ac7f756-96e1-4568-ad46-ee80692d1d77.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1ac7f756-96e1-4568-ad46-ee80692d1d77.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\1bfb9309-f284-41b6-ac43-49db06197510.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1bfb9309-f284-41b6-ac43-49db06197510.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\1e0d37e6-91e4-4a74-8d1c-f6c0d7c31d16.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1e0d37e6-91e4-4a74-8d1c-f6c0d7c31d16.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\224402c4-c43f-4f5a-aa1a-793da2ff6f2a.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\224402c4-c43f-4f5a-aa1a-793da2ff6f2a.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\23908abd-1a71-4954-9999-78ecbca20eb5_Untitled-2.png",
+      "PackagePath": "staticwebassets\\images\\products\\23908abd-1a71-4954-9999-78ecbca20eb5_Untitled-2.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\272025d4-e1ef-413a-bf9f-d2fed98c72d7.png",
+      "PackagePath": "staticwebassets\\images\\products\\272025d4-e1ef-413a-bf9f-d2fed98c72d7.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\29c9e6a1-bb0b-459a-886e-7db10c58b711.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\29c9e6a1-bb0b-459a-886e-7db10c58b711.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\2a30fc34-570b-4662-9519-a20558d3c9d8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\2a30fc34-570b-4662-9519-a20558d3c9d8.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\2bcb41de-5b6a-47d9-96b7-ebbdf37ffb10.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\2bcb41de-5b6a-47d9-96b7-ebbdf37ffb10.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\2c474e48-ee6d-4f0b-a840-e8e3c64fd5e1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\2c474e48-ee6d-4f0b-a840-e8e3c64fd5e1.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\2e5b8333-ff9b-42a6-8772-5ee761bddff8.png",
+      "PackagePath": "staticwebassets\\images\\products\\2e5b8333-ff9b-42a6-8772-5ee761bddff8.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\2e7a10f3-93f1-43da-a383-2b72f030aaab.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\2e7a10f3-93f1-43da-a383-2b72f030aaab.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\2f59704d-8181-4e7d-99e0-06e4cd743460.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\2f59704d-8181-4e7d-99e0-06e4cd743460.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\3192419a-802f-40f4-aae2-d9ef22eb0e75.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\3192419a-802f-40f4-aae2-d9ef22eb0e75.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\336eb371-9c44-4f7f-bd4e-253edf842b81.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\336eb371-9c44-4f7f-bd4e-253edf842b81.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\33cdcee8-0077-48eb-9b66-eed94c58cb65.png",
+      "PackagePath": "staticwebassets\\images\\products\\33cdcee8-0077-48eb-9b66-eed94c58cb65.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\34a84720-81df-4952-8375-6a6df6100af6_Energy+-1 copy 2.png",
+      "PackagePath": "staticwebassets\\images\\products\\34a84720-81df-4952-8375-6a6df6100af6_Energy+-1 copy 2.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\34c855fd-61e8-4a89-abba-78e191bfded0.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\34c855fd-61e8-4a89-abba-78e191bfded0.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\3735c6e1-a587-4b95-b10c-66c5025a993c.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\3735c6e1-a587-4b95-b10c-66c5025a993c.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\38eb20a9-2f39-4a16-96f1-e85dbe79c90e.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\38eb20a9-2f39-4a16-96f1-e85dbe79c90e.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\39dd343d-d588-49ba-a319-82bcdd9149ca.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\39dd343d-d588-49ba-a319-82bcdd9149ca.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\3ac2a7d4-acd5-4fc7-bfe7-28bad3f77352.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\3ac2a7d4-acd5-4fc7-bfe7-28bad3f77352.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\3c6ab724-f24e-42ca-8de3-df5344f561cc.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\3c6ab724-f24e-42ca-8de3-df5344f561cc.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\3c9db69d-42b8-4831-aa07-0e87034f8276.png",
+      "PackagePath": "staticwebassets\\images\\products\\3c9db69d-42b8-4831-aa07-0e87034f8276.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\3f85f250-746f-4d95-b61f-a179e2cce782_Havens Light Logo.png",
+      "PackagePath": "staticwebassets\\images\\products\\3f85f250-746f-4d95-b61f-a179e2cce782_Havens Light Logo.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\42df7359-673d-4d52-8a8d-29b27618ce38.png",
+      "PackagePath": "staticwebassets\\images\\products\\42df7359-673d-4d52-8a8d-29b27618ce38.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\44c3dbc5-912e-49a4-9945-d532510766e6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\44c3dbc5-912e-49a4-9945-d532510766e6.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\4602e773-2b63-4c5b-94a6-702358b54f48.png",
+      "PackagePath": "staticwebassets\\images\\products\\4602e773-2b63-4c5b-94a6-702358b54f48.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\482359b7-728c-46a1-9bd7-0515075b1c9b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\482359b7-728c-46a1-9bd7-0515075b1c9b.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\49daee08-065a-4124-8864-17fb79284383.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\49daee08-065a-4124-8864-17fb79284383.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\4ca34377-58a0-4a2c-bd47-792bff80654f.png",
+      "PackagePath": "staticwebassets\\images\\products\\4ca34377-58a0-4a2c-bd47-792bff80654f.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\4f9c2fd8-6c25-4775-967c-feeab9e3c8f2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\4f9c2fd8-6c25-4775-967c-feeab9e3c8f2.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\50263709-4cc9-4740-af35-9523552c5684.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\50263709-4cc9-4740-af35-9523552c5684.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\51bcfec5-c338-4a96-b3e3-51a36842f3a6.png",
+      "PackagePath": "staticwebassets\\images\\products\\51bcfec5-c338-4a96-b3e3-51a36842f3a6.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\5505defd-ca9d-4e60-8ff7-decf3d4ec352.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\5505defd-ca9d-4e60-8ff7-decf3d4ec352.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\57381514-082a-4f4e-8e84-415ff690b0e1.png",
+      "PackagePath": "staticwebassets\\images\\products\\57381514-082a-4f4e-8e84-415ff690b0e1.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\589915a2-f55e-42c9-9ee3-ea6e1b2bf7ef_white Havens Light Logo copy.png",
+      "PackagePath": "staticwebassets\\images\\products\\589915a2-f55e-42c9-9ee3-ea6e1b2bf7ef_white Havens Light Logo copy.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\5ab4dd17-f584-45e1-9f4e-5f4033a8c6a0.png",
+      "PackagePath": "staticwebassets\\images\\products\\5ab4dd17-f584-45e1-9f4e-5f4033a8c6a0.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\5ad476cc-a67f-4349-9c38-31cf611757dd.png",
+      "PackagePath": "staticwebassets\\images\\products\\5ad476cc-a67f-4349-9c38-31cf611757dd.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\5f2f5569-6776-465f-8682-70db97445ed5.png",
+      "PackagePath": "staticwebassets\\images\\products\\5f2f5569-6776-465f-8682-70db97445ed5.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\61ce3096-502c-433f-bb83-415461125285.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\61ce3096-502c-433f-bb83-415461125285.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\6778a231-fabf-495b-adbe-ad5a409ce82b.png",
+      "PackagePath": "staticwebassets\\images\\products\\6778a231-fabf-495b-adbe-ad5a409ce82b.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\69e249f7-bd76-4961-af41-02d9dcb73b50.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\69e249f7-bd76-4961-af41-02d9dcb73b50.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\6cc0058d-4bc7-48d7-8b46-075eaf52f918.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\6cc0058d-4bc7-48d7-8b46-075eaf52f918.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\6d644c14-e592-42b3-a8f8-d98056bae744.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\6d644c14-e592-42b3-a8f8-d98056bae744.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\6db318c2-ed84-4077-b547-b5595ad67eca.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\6db318c2-ed84-4077-b547-b5595ad67eca.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\6de0e2c0-f4e8-4b24-b16f-09d23a5a88ac.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\6de0e2c0-f4e8-4b24-b16f-09d23a5a88ac.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\7054e7a4-2e29-4436-bc36-b954350124a0.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\7054e7a4-2e29-4436-bc36-b954350124a0.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\71efd5f2-c6de-49ee-bf11-893a32a0dabf.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\71efd5f2-c6de-49ee-bf11-893a32a0dabf.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\720cf01b-1e9f-4088-bab1-4300aa9edc76.png",
+      "PackagePath": "staticwebassets\\images\\products\\720cf01b-1e9f-4088-bab1-4300aa9edc76.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\723b2b30-a605-4928-9a8b-7479d1a9b2ce.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\723b2b30-a605-4928-9a8b-7479d1a9b2ce.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\727ef295-af2d-48ce-a388-2bbc540ae54d.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\727ef295-af2d-48ce-a388-2bbc540ae54d.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\74c2e1a9-acea-4619-b062-81047fbd3808.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\74c2e1a9-acea-4619-b062-81047fbd3808.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\753285c4-3d9e-4201-8323-d04099a3c4c2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\753285c4-3d9e-4201-8323-d04099a3c4c2.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\772c39a1-4c94-4c8e-bbd9-38580ec0734c.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\772c39a1-4c94-4c8e-bbd9-38580ec0734c.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\7888a1bc-a393-44bf-aa00-262187b8ccef.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\7888a1bc-a393-44bf-aa00-262187b8ccef.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\78e8dde1-82e2-44e1-b33a-1c379d2b3270.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\78e8dde1-82e2-44e1-b33a-1c379d2b3270.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\7bcb37a3-1517-46c5-b511-790d1ea5634b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\7bcb37a3-1517-46c5-b511-790d1ea5634b.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\7cac55e1-3b12-4b94-9c02-f08745772745.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\7cac55e1-3b12-4b94-9c02-f08745772745.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\7d5a895e-5176-491d-8575-d174ba0f87d6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\7d5a895e-5176-491d-8575-d174ba0f87d6.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\7e525d4b-d39b-48f0-b7d0-088a21b11386 (2).PNG",
+      "PackagePath": "staticwebassets\\images\\products\\7e525d4b-d39b-48f0-b7d0-088a21b11386 (2).PNG"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\7e525d4b-d39b-48f0-b7d0-088a21b11386.PNG",
+      "PackagePath": "staticwebassets\\images\\products\\7e525d4b-d39b-48f0-b7d0-088a21b11386.PNG"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\7e64690d-6a2b-4bcf-95b4-ee5d2b1a07b9.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\7e64690d-6a2b-4bcf-95b4-ee5d2b1a07b9.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\7e6e501d-d49c-4b00-822c-71f622dfaba2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\7e6e501d-d49c-4b00-822c-71f622dfaba2.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\7f5841dc-3a68-4232-930e-fd88193cdcbe.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\7f5841dc-3a68-4232-930e-fd88193cdcbe.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\838c57d9-a515-4cd4-a596-10c9fb6d1ff3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\838c57d9-a515-4cd4-a596-10c9fb6d1ff3.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\86ffb4a5-842e-437d-8c42-507a9b123cd5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\86ffb4a5-842e-437d-8c42-507a9b123cd5.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\87adc5f7-5f7f-460b-8630-38ed6d75a806_Asset 3-8.png",
+      "PackagePath": "staticwebassets\\images\\products\\87adc5f7-5f7f-460b-8630-38ed6d75a806_Asset 3-8.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\87bffacd-3b16-4ee1-8167-a17ac8230d60.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\87bffacd-3b16-4ee1-8167-a17ac8230d60.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\8812b2a7-a972-4914-bb17-2a7e64d51f3c.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\8812b2a7-a972-4914-bb17-2a7e64d51f3c.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\88233e76-308c-4583-8e19-2ff379bbf9f5.png",
+      "PackagePath": "staticwebassets\\images\\products\\88233e76-308c-4583-8e19-2ff379bbf9f5.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\8a1358e1-4043-4b2a-913b-e4587b5d1c33.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\8a1358e1-4043-4b2a-913b-e4587b5d1c33.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\8c58414e-a45b-49b1-a193-b3b74108a72a.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\8c58414e-a45b-49b1-a193-b3b74108a72a.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\8e09a81d-3f4f-4a20-9403-d56d4cd16e2b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\8e09a81d-3f4f-4a20-9403-d56d4cd16e2b.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\90562a29-e421-43bb-84ea-283fdf1e820d.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\90562a29-e421-43bb-84ea-283fdf1e820d.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\909914c9-8e00-4548-92e5-9d700f37c4f0.png",
+      "PackagePath": "staticwebassets\\images\\products\\909914c9-8e00-4548-92e5-9d700f37c4f0.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\98579250-c79f-4e54-8c82-107e8aed2fc6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\98579250-c79f-4e54-8c82-107e8aed2fc6.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\98d6fb5d-424d-4cd3-8161-d5156caed6ef.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\98d6fb5d-424d-4cd3-8161-d5156caed6ef.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\98fc28ba-013d-498c-bb9a-cc815fe391d7_Havens Light Logo Profile Picture.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\98fc28ba-013d-498c-bb9a-cc815fe391d7_Havens Light Logo Profile Picture.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\9a0d3909-9be1-4629-a08f-150ae31a671d.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\9a0d3909-9be1-4629-a08f-150ae31a671d.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\9a572441-5e11-4f41-aca6-d327253ac9f1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\9a572441-5e11-4f41-aca6-d327253ac9f1.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\9ab49a51-0586-495f-8560-303dac92a223.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\9ab49a51-0586-495f-8560-303dac92a223.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\9b40d948-8f2c-41b7-b370-0f666a891403.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\9b40d948-8f2c-41b7-b370-0f666a891403.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\9b82b661-8222-4e83-8975-49f533a578de.png",
+      "PackagePath": "staticwebassets\\images\\products\\9b82b661-8222-4e83-8975-49f533a578de.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\9cffc2d0-d4f9-40a8-8950-c200017d8681.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\9cffc2d0-d4f9-40a8-8950-c200017d8681.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\9d2ce4e2-ad1c-416f-96a0-e01a2aa70ec1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\9d2ce4e2-ad1c-416f-96a0-e01a2aa70ec1.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\a0dfa3da-53e1-444c-bbad-ccd6a7e8f16f.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\a0dfa3da-53e1-444c-bbad-ccd6a7e8f16f.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\a1f3dddf-ee83-49c8-a6bf-82f19e6b2c1b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\a1f3dddf-ee83-49c8-a6bf-82f19e6b2c1b.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\a370b971-2d07-401f-9628-efa49994b016.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\a370b971-2d07-401f-9628-efa49994b016.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\a6e88856-fea5-4812-97a0-1777bf224eb1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\a6e88856-fea5-4812-97a0-1777bf224eb1.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\a96abcc0-fdfb-4759-88ca-04a9441005e3 (2) (2).png",
+      "PackagePath": "staticwebassets\\images\\products\\a96abcc0-fdfb-4759-88ca-04a9441005e3 (2) (2).png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\a96abcc0-fdfb-4759-88ca-04a9441005e3 (2).png",
+      "PackagePath": "staticwebassets\\images\\products\\a96abcc0-fdfb-4759-88ca-04a9441005e3 (2).png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\a96abcc0-fdfb-4759-88ca-04a9441005e3 (3).png",
+      "PackagePath": "staticwebassets\\images\\products\\a96abcc0-fdfb-4759-88ca-04a9441005e3 (3).png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\a96abcc0-fdfb-4759-88ca-04a9441005e3.png",
+      "PackagePath": "staticwebassets\\images\\products\\a96abcc0-fdfb-4759-88ca-04a9441005e3.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\afa4b808-2b97-47ba-9952-d7833d080433.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\afa4b808-2b97-47ba-9952-d7833d080433.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\b314c43b-1200-4895-81bd-f5cca76e8400.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\b314c43b-1200-4895-81bd-f5cca76e8400.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\b59c7386-d06a-4c7f-97b6-345a2dcaea47.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\b59c7386-d06a-4c7f-97b6-345a2dcaea47.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\b6a0ee09-8620-4aae-97cf-c5c21f3d7b8d.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\b6a0ee09-8620-4aae-97cf-c5c21f3d7b8d.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\b7e45218-1fa9-42ab-bc3d-8219513d66d2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\b7e45218-1fa9-42ab-bc3d-8219513d66d2.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\b8642815-cf03-4413-a0f4-ad585df2c077.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\b8642815-cf03-4413-a0f4-ad585df2c077.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\b8f58439-cf8d-4c59-91be-19a0b228b812.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\b8f58439-cf8d-4c59-91be-19a0b228b812.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\ba395d86-f43d-4748-9087-2a978019d853_HG Logo.png",
+      "PackagePath": "staticwebassets\\images\\products\\ba395d86-f43d-4748-9087-2a978019d853_HG Logo.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\ba6907d6-9bb3-4b74-8a1a-e77f36db3a51.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\ba6907d6-9bb3-4b74-8a1a-e77f36db3a51.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\bb1f9e7a-e4c7-4e3f-af50-f4fbc458f76b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\bb1f9e7a-e4c7-4e3f-af50-f4fbc458f76b.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\bbd96130-7c94-4229-88fe-ae38c8abe19c_Havens Light Logo Profile Picture.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\bbd96130-7c94-4229-88fe-ae38c8abe19c_Havens Light Logo Profile Picture.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\bcced432-d34f-4af8-a9a4-e58aad0d14d0.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\bcced432-d34f-4af8-a9a4-e58aad0d14d0.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\be44fe0b-6944-43bc-9ecd-50abf0175706.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\be44fe0b-6944-43bc-9ecd-50abf0175706.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\beb8ac05-78c6-4377-8d21-62e366dfbf2d.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\beb8ac05-78c6-4377-8d21-62e366dfbf2d.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\c1feac57-1334-44e3-99dc-d2aa4c8d10b3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\c1feac57-1334-44e3-99dc-d2aa4c8d10b3.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\c305e0ef-eb7e-44af-8e5c-9a7ce4789c4c.png",
+      "PackagePath": "staticwebassets\\images\\products\\c305e0ef-eb7e-44af-8e5c-9a7ce4789c4c.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\c6398c56-1cf8-4fc4-a89c-3e9355049351.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\c6398c56-1cf8-4fc4-a89c-3e9355049351.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\c8dd9429-da99-453c-8f8a-2393c44ac155.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\c8dd9429-da99-453c-8f8a-2393c44ac155.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\ca840334-71e4-4630-b8f9-140ba13f835e.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\ca840334-71e4-4630-b8f9-140ba13f835e.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\ce7a5fb7-6ef3-4c10-be1e-62d441375e85.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\ce7a5fb7-6ef3-4c10-be1e-62d441375e85.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\d3008202-0d55-467c-9082-c40706714d87.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\d3008202-0d55-467c-9082-c40706714d87.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\d389894f-fe84-40fa-ac1d-57beef70ee4f.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\d389894f-fe84-40fa-ac1d-57beef70ee4f.jpeg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\d3aff198-2dd2-4939-906c-aad73cfe7ae7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\d3aff198-2dd2-4939-906c-aad73cfe7ae7.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\d799a7bc-06bf-4172-a5dd-dc09b14381df.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\d799a7bc-06bf-4172-a5dd-dc09b14381df.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\d7e84265-6533-4ce8-aa05-ca615022f155.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\d7e84265-6533-4ce8-aa05-ca615022f155.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\dab2805c-996b-4c13-bcd1-e6d94e7e195f.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\dab2805c-996b-4c13-bcd1-e6d94e7e195f.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\dba25bfb-5fd5-4fa1-b191-13dd0848240a.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\dba25bfb-5fd5-4fa1-b191-13dd0848240a.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\e2098952-8d34-4ff5-9fc0-ca8df1550ac1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\e2098952-8d34-4ff5-9fc0-ca8df1550ac1.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\e5477825-828e-464b-bd1e-c094d94b8ed5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\e5477825-828e-464b-bd1e-c094d94b8ed5.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\e55b3f47-e697-4ce1-b4a7-14c481ba0efa.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\e55b3f47-e697-4ce1-b4a7-14c481ba0efa.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\e6eecdea-dc28-4217-9e77-acac82ac6797_Arrow.png",
+      "PackagePath": "staticwebassets\\images\\products\\e6eecdea-dc28-4217-9e77-acac82ac6797_Arrow.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\e7b45651-1ffc-4429-bb9f-0c274c893a34.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\e7b45651-1ffc-4429-bb9f-0c274c893a34.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\ea83281f-1c14-4f54-8383-b8783c19206b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\ea83281f-1c14-4f54-8383-b8783c19206b.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\ed926a1d-9e8f-495b-98f0-887bf2932997.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\ed926a1d-9e8f-495b-98f0-887bf2932997.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\f0739be3-9a60-468b-b5cb-37e1831e17ec.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\f0739be3-9a60-468b-b5cb-37e1831e17ec.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\f3254699-49be-47c0-a47c-c44aad74510b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\f3254699-49be-47c0-a47c-c44aad74510b.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\f4c6edda-ccf4-44fb-b4c5-73f6baf0662f.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\f4c6edda-ccf4-44fb-b4c5-73f6baf0662f.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\f5200d85-c0ea-4dd6-a913-1fd2fcb5f24a.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\f5200d85-c0ea-4dd6-a913-1fd2fcb5f24a.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\f944dbe0-1a1b-445d-a428-b37ad07c2ad1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\f944dbe0-1a1b-445d-a428-b37ad07c2ad1.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\fa41f829-b35f-43ec-bdae-22282c46b6ab.png",
+      "PackagePath": "staticwebassets\\images\\products\\fa41f829-b35f-43ec-bdae-22282c46b6ab.png"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\fc711581-4971-4d62-9524-56e3637ed727.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\fc711581-4971-4d62-9524-56e3637ed727.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\fcbabd91-a0a1-4c4c-b442-2cdbc27d9fca.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\fcbabd91-a0a1-4c4c-b442-2cdbc27d9fca.jpg"
+    },
+    {
+      "Id": "C:\\FullStack\\Backend\\MyEcommerce\\wwwroot\\images\\products\\feec48ba-cb42-4960-82a6-74a2f1816c7e.png",
+      "PackagePath": "staticwebassets\\images\\products\\feec48ba-cb42-4960-82a6-74a2f1816c7e.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyEcommerce.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyEcommerce.props",
+      "PackagePath": "build\\MyEcommerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyEcommerce.props",
+      "PackagePath": "buildMultiTargeting\\MyEcommerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyEcommerce.props",
+      "PackagePath": "buildTransitive\\MyEcommerce.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
